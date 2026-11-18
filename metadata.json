@@ -1,0 +1,6 @@
+{
+  "name": "DentalCloud Pro - Gestión Odontológica",
+  "description": "Sistema clínico dental integral con agenda, odontograma FDI, presupuestos, pagos, récipes médicos, consentimiento informado y recordatorios automatizados de WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
